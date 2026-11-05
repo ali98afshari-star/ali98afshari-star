@@ -17,4 +17,4 @@
 ## 📫 Reach me
 
 - GitHub: [@ali98afshari-star](https://github.com/ali98afshari-star)
-- LinkedIn: [ali98afshari](https://www.linkedin.com/in/ali-afshari-23502023b/)
+- LinkedIn: [ali-afshari-23502023b](https://www.linkedin.com/in/ali-afshari-23502023b/)

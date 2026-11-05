@@ -2,10 +2,11 @@
 
 💊 **Pharmacist (PharmD)** — based in Iran 🇮🇷
 
-- 🔬 **Research:** diabetes drug affordability — prices, insurance coverage, and access to medicines in Iran
+- 🔬 **Thesis topic:** diabetes drug affordability — prices, insurance coverage, and access to medicines in Iran
+- 📊 **Focus areas:** health economics · AI models in pharmaceutical sciences · drug pricing & access
 - 🐧 **Linux user** (Linux Mint / XFCE) — I build small tools that make the desktop work the way I want
 - 🛠️ **Currently building:** [KeyMouse](https://github.com/ali98afshari-star/keymouse) — hold a key, move the mouse with the arrow keys
-- 🌱 **Interests:** pharmacy, open source, automation, drug pricing & health economics
+- 🌱 **Interests:** pharmacy, open source, automation, health economics, AI in pharmacy
 
 ## Projects
 
@@ -16,3 +17,4 @@
 ## 📫 Reach me
 
 - GitHub: [@ali98afshari-star](https://github.com/ali98afshari-star)
+- LinkedIn: [ali98afshari](https://www.linkedin.com/in/ali98afshari)
